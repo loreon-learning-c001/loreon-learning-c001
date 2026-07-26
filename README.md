@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:f59e0b&height=220&section=header&text=Loreon%20Learning&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Africa-First%20%C2%B7%20AI-Powered%20%C2%B7%20Community-Driven&descSize=18&descAlignY=60" alt="Loreon Learning" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:f59e0b&height=220&section=header&text=Loreon%20Learning&fontSize=54&fontColor=ffffff&fontAlignY=38" alt="Loreon Learning" width="100%" />
 
 For DevOps engineers 🚀
 
