@@ -143,7 +143,7 @@ Ready to start your tech career the Africa-first way? Learn with a cohort, get m
 
 <!-- TODO: replace the # placeholders below with real Loreon Learning links before this goes live -->
 <a href="#"><img src="https://img.shields.io/badge/Website-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="mailto:tech@circo.africa"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:loreon.ilerioluwa@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="#"><img src="https://img.shields.io/badge/WhatsApp_Community-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Community" /></a>
