@@ -16,9 +16,9 @@ For DevOps engineers 🚀
 <img src="https://img.shields.io/github/followers/loreon-learning-c001?label=Followers&style=flat&color=f59e0b" alt="Followers" />
 
 </div>
----
 
-## 🐳 The DevOps Learning Path
+
+## The DevOps Learning Path
 
 Track your progress 📈 Growing Every Day
 
